@@ -2,11 +2,42 @@
 
 An Online shop
 
-## Available Scripts
+## Prerequisites
 
-In the project directory, you can run:
+### Install Node JS
 
-### `npm start`
+Refer to https://nodejs.org/en/ to install nodejs
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Live Application URL
+
+The Application is deployed in https://bright-mousse-e16043.netlify.app/
+
+Click on the link to see the application
+
+## Cloning and Running the Application in local
+
+Clone the project into local
+
+```bash
+git clone https://github.com/PCoder23/E-shop.git
+```
+
+go into the project directory
+
+```bash
+cd E-shop
+```
+
+Install all the npm packages. type the following command to install all npm packages
+
+```bash
+npm install
+```
+
+In order to run the application Type the following command
+
+```bash
+npm start
+```
+
+The Application Runs on **localhost:3000**
